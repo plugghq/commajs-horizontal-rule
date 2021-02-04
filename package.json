@@ -1,6 +1,6 @@
 {
   "name": "commajs-horizontal-rule",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Commajs - The WYSIWYG framework -  horizontal-rule plugin",
   "main": "dist/commajs-horizontal-rule.min.js",
   "repository": {
